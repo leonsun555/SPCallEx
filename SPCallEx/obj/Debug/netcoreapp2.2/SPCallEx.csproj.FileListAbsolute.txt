@@ -1,0 +1,14 @@
+D:\VS_Project\SPCallEx\SPCallEx\bin\Debug\netcoreapp2.2\SPCallEx.deps.json
+D:\VS_Project\SPCallEx\SPCallEx\bin\Debug\netcoreapp2.2\SPCallEx.runtimeconfig.json
+D:\VS_Project\SPCallEx\SPCallEx\bin\Debug\netcoreapp2.2\SPCallEx.runtimeconfig.dev.json
+D:\VS_Project\SPCallEx\SPCallEx\bin\Debug\netcoreapp2.2\SPCallEx.dll
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.csprojAssemblyReference.cache
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.csproj.CoreCompileInputs.cache
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.RazorAssemblyInfo.cache
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.RazorAssemblyInfo.cs
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.AssemblyInfoInputs.cache
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.AssemblyInfo.cs
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.RazorTargetAssemblyInfo.cache
+D:\VS_Project\SPCallEx\SPCallEx\bin\Debug\netcoreapp2.2\SPCallEx.pdb
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.dll
+D:\VS_Project\SPCallEx\SPCallEx\obj\Debug\netcoreapp2.2\SPCallEx.pdb

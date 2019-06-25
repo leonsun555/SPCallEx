@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TNUA-ADMISSION\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TNUA-ADMISSION\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
